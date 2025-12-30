@@ -1,0 +1,151 @@
+    #cookiesection {
+  background: darkgreen;
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#cookie {
+  width: 300px;
+  height: 300px;
+  font-size: 200px;
+  border: 0;
+  background: none;
+}
+
+#cookie:active {
+  font-size: 150px;
+}
+
+#numberofcookie {
+  position: fixed;
+  top: 0.0000001%;
+  font-size: 50px;
+}
+
+#upgrades {
+  background: yellowgreen;
+  width: 50vw;
+  height: 100vh;
+  position: fixed;
+  right: 0%;
+  top: 0%;
+  transform: translateX(-50%, -50%);
+}
+
+body {
+  margin: 0;
+}
+
+#gramma {
+  width: 100%;
+  height: 100px;
+  background: lightgreen;
+  overflow: hidden;
+}
+
+#buygrama {
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  background: green;
+  border: 0;
+  border-radius: 20%;
+  position: relative;
+}
+
+#buygrama:active {
+ background: #661000;
+}
+
+#numberofgrama {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 0%;
+  left: 30%;
+  font-size: 30px;
+  margin: 0;
+  overflow: hidden;
+}
+
+#grammas {
+  max-width: 30%;
+  max-height: 100px;
+}
+
+#farm {
+  width: 100%;
+  height: 100px;
+  background: lightgreen;
+  overflow: hidden;
+}
+
+#buyfarm {
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  background: green;
+  border: 0;
+  border-radius: 20%;
+  position: relative;
+}
+
+#buyfarm:active {
+ background: #661000;
+}
+
+#numberoffarm {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  font-size: 30px;
+  margin: 0;
+  overflow: hidden;
+}
+
+#farms {
+  max-width: 30%;
+  max-height: 100px;
+}
+
+#curser {
+  width: 100%;
+  height: 100px;
+  background: lightgreen;
+  overflow: hidden;
+}
+
+#buycurser {
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  background: green;
+  border: 0;
+  border-radius: 20%;
+  position: relative;
+}
+
+#buycurser:active {
+ background: #661000;
+}
+
+#numberofcurser {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  font-size: 30px;
+  margin: 0;
+  overflow: hidden;
+}
+
+#cursers {
+  max-width: 30%;
+  max-height: 100px;
+}
